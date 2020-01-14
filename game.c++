@@ -1,20 +1,3 @@
-
-/********************************************************************************************************
-//Name:Andy Ung	& Brayden Mills																			*	
-//Date: June 15 2018																					*
-//Purpose:Game pack with 5 games																		*	
-//Data Dictionary:																						*
-//					words... string of words (holds 12 words)											* 	
-//					answer...Holds the answer from the user (string)									*
-//					leng...Length of the answer (int)													*
-//					answer2...Holds the answer from the user (string)									*
-//																										*
-//			Andy:Documented and coded main menu,hangman,tictactoe,guessinggame							*
-//			Brayden:Documented and coded maze game and the interaction with the main menu				*
-//																										*	
-//																										*		
-********************************************************************************************************/
-
 //Bringing in libaries 
 #include <iostream>
 #include <string>
